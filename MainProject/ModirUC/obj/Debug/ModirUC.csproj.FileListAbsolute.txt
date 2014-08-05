@@ -1,0 +1,10 @@
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\bin\Debug\ModirUC.pdb
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.csprojResolveAssemblyReference.cache
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\UserControl1.baml
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\UserControl1.g.cs
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC_MarkupCompile.cache
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.g.resources
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.Properties.Resources.resources
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.csproj.GenerateResource.Cache
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.dll
+C:\Users\Mojtaba\Desktop\MainProject\ModirUC\obj\Debug\ModirUC.pdb

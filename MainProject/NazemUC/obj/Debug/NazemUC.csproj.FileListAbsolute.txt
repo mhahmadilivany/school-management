@@ -1,0 +1,11 @@
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\bin\Debug\NazemUC.dll
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\bin\Debug\NazemUC.pdb
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.csprojResolveAssemblyReference.cache
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\UserControl1.baml
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\UserControl1.g.cs
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC_MarkupCompile.cache
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.g.resources
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.Properties.Resources.resources
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.csproj.GenerateResource.Cache
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.dll
+C:\Users\Mojtaba\Desktop\MainProject\NazemUC\obj\Debug\NazemUC.pdb
